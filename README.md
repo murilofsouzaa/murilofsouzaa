@@ -1,5 +1,4 @@
 ### wassup :muscle:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1000&color=F7F7F7&vCenter=true&random=false&width=435&lines=Murilo+F.+Souza)](https://git.io/typing-svg) 
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
