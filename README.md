@@ -1,5 +1,3 @@
-## Murilo F Souza
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&random=true&width=465&height=81&lines=Wassup+%F0%9F%92%AA)](https://git.io/typing-svg)
 
 <a href = "https://www.linkedin.com/in/murilo-freitas-de-souza-67a01b2bb/" > 
