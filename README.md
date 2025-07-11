@@ -1,12 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&random=true&width=465&height=81&lines=Wassup+%F0%9F%92%AA)](https://git.io/typing-svg)
-
-<a href = "https://www.linkedin.com/in/murilo-freitas-de-souza-67a01b2bb/" > 
-        <img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" > 
-    </a>
-    <a href = "https://www.instagram.com/murilofsouza_/" > 
-        <img src= "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" > 
-    </a>
+<div align="center">
+        
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&random=true&width=465&height=81&lines=Wassup+%F0%9F%92%AA" alt="Typing SVG" /></a>
 </div>
+
+
+I'm Murilo a Software Engineer majoring, currently in the second semester. I'm an enthusiast about studying and I found myself in programming.
 
 ## 💻 Languages and Techs
 
