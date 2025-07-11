@@ -1,10 +1,8 @@
-### Murilo F. de Souza
+## Murilo F Souza
 
-**`Software Engineer`**
-<br>
-<br>
-<div>
-    <a href = "https://www.linkedin.com/in/murilo-freitas-de-souza-67a01b2bb/" > 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&random=true&width=465&height=81&lines=Wassup+%F0%9F%92%AA)](https://git.io/typing-svg)
+
+<a href = "https://www.linkedin.com/in/murilo-freitas-de-souza-67a01b2bb/" > 
         <img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" > 
     </a>
     <a href = "https://www.instagram.com/murilofsouza_/" > 
@@ -12,9 +10,7 @@
     </a>
 </div>
 
---- 
-
-### 💻 Languages and Techs
+## 💻 Languages and Techs
 
 <div>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -29,26 +25,21 @@
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src= "https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" >  
 </div>
-    
-<br/>
-<br/>
 
-### 📊 Statistics
 
-<p>
+## 📊 Statistics
+
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=murilofsouzaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
+    src="https://github-readme-stats.vercel.app/api?username=murilofsouzaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"  />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilofsouzaa&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
-  />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilofsouzaa&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" />
 
-</p>
+
