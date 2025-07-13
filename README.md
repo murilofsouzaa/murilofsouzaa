@@ -1,11 +1,14 @@
 <div align="center">
-        
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&random=true&width=465&height=81&lines=Wassup+%F0%9F%92%AA" alt="Typing SVG" /></a>
-</div>
 
+<h1>Murilo F Souza</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&pause=1000&color=F76442&center=true&width=435&lines=Wassup+%F0%9F%92%AA%F0%9F%8F%BC)](https://git.io/typing-svg)
 
 I'm Murilo a Software Engineer majoring, currently in the second semester. I'm an enthusiast about studying and I found myself in programming.
 
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=murilofsouzaa&show_icons=true&theme=github_dark&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilofsouzaa&layout=compact&exclude_repo=Jupyter-notebooks&theme=github_dark"/>
+      
 ## 💻 Languages and Techs
 
 <div>
@@ -22,20 +25,7 @@ I'm Murilo a Software Engineer majoring, currently in the second semester. I'm a
     <img src= "https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" >  
 </div>
 
+</div>
 
-## 📊 Statistics
-
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=murilofsouzaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilofsouzaa&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" />
 
 
