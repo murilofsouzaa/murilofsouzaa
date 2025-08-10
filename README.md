@@ -1,8 +1,9 @@
 <div align="center">
+      
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=raibow">
 
-<h1>Murilo F Souza</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&pause=1000&color=F76442&center=true&width=435&lines=Wassup+%F0%9F%92%AA%F0%9F%8F%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mozilla+Headline&size=44&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Wassup+%F0%9F%92%AA)](https://git.io/typing-svg)
 
 I'm Murilo a Software Engineer majoring, currently in the second semester. I'm an enthusiast about studying and I found myself in programming.
 
