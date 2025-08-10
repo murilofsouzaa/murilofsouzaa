@@ -1,13 +1,12 @@
 <div align="center">
+<img width="340px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2thNTQyMzRrZDZzcmQ4ZWJ1bnl6bXF3bDN6eHJyem9sbGZsNjM3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9JnLOdu5vJMyTownZ0/giphy.gif">
       
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=raibow">
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mozilla+Headline&size=44&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Wassup+%F0%9F%92%AA)](https://git.io/typing-svg)
 
 I'm Murilo a Software Engineer majoring, currently in the second semester. I'm an enthusiast about studying and I found myself in programming.
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=murilofsouzaa&show_icons=true&theme=github_dark&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilofsouzaa&layout=compact&exclude_repo=Jupyter-notebooks&theme=github_dark"/>
       
 ## 💻 Languages and Techs
