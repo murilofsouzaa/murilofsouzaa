@@ -11,6 +11,10 @@
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=ts,js,nextjs,nodejs,expressjs,bootstrap,tailwind,react,java,spring,mongodb,mysql,postgresql,kafka,docker,linux" />
       </a>
+      <h3>Design Tools</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=figma,photoshop,aftereffects" />
+      </a>
     </td>
     <td width="25%" align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/8053fd5e-f026-49ed-aa49-796415db4847" width="200" />
