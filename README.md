@@ -7,14 +7,14 @@
         I'm passionate about learning and discovered my interest in programming 
         through constant study and practice.
       </p>
-      <h3>Languages and Technologies</h3>
+      <h2>Languages and Technologies</h2>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=ts,js,nextjs,nodejs,expressjs,bootstrap,tailwind,react" />
       </a>
        <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java,spring,mongodb,mysql,postgresql,kafka,docker,linux" />
       </a>
-      <h3>Design Tools</h3>
+      <h2>Design Tools</h2>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=figma,photoshop,aftereffects" />
       </a>
