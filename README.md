@@ -9,7 +9,10 @@
       </p>
       <h3>Languages and Technologies</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,js,nextjs,nodejs,expressjs,bootstrap,tailwind,react,java,spring,mongodb,mysql,postgresql,kafka,docker,linux" />
+        <img src="https://skillicons.dev/icons?i=ts,js,nextjs,nodejs,expressjs,bootstrap,tailwind,react" />
+      </a>
+       <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,spring,mongodb,mysql,postgresql,kafka,docker,linux" />
       </a>
       <h3>Design Tools</h3>
       <a href="https://skillicons.dev">
