@@ -9,7 +9,7 @@
       </p>
       <h2>Languages and Technologies</h2>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,js,nodejs,expressjs,bootstrap,tailwind,react,java,spring,mongodb,mysql,postgresql,docker"/>
+        <img src="https://skillicons.dev/icons?i=ts,js,nodejs,expressjs,tailwind,react,java,spring,mongodb,mysql,postgresql,docker"/>
       </a>
     </td>
     <td width="25%" align="center" valign="middle">
