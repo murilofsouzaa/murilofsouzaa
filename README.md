@@ -3,9 +3,8 @@
     <td width="75%" valign="middle">
       <h1>Hi there, I'm Murilo!</h1>
       <p>
-        I'm a Software Engineering undergraduate currently in my third semester. 
-        I'm passionate about learning and discovered my interest in programming 
-        through constant study and practice.
+        I'm a Software Engineering undergraduate, currently in my third semester. 
+        I'm eager to learn as much as possible, particulary in areas like software archictecure, domain driven design, desing patterns and UI/UX
       </p>
       <h2>Languages and Technologies</h2>
       <a href="https://skillicons.dev">
