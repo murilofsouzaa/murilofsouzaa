@@ -1,7 +1,7 @@
 <table border="0" cellpadding="20" cellspacing="0">
   <tr>
     <td width="75%" valign="middle">
-      <h1>Hi there, I'm Murilo!</h1>
+      <h1>Wassup, I'm Murilo!</h1>
       <p>
         I'm a Software Engineering undergraduate, currently in my third semester. 
         I'm eager to learn as much as possible, particulary in areas like software archictecure, domain driven design, design patterns, devops and UI/UX
